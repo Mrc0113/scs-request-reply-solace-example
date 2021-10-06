@@ -1,4 +1,9 @@
 spring:
+  application:
+    name: CardBlockService
+  sleuth:
+    sampler:
+      probability: 1.0
   cloud:
     function:
       definition: blockCard

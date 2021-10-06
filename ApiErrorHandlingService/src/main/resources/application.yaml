@@ -1,4 +1,9 @@
 spring:
+  application:
+    name: ApiErrorHandlingService
+  sleuth:
+    sampler:
+      probability: 1.0
   cloud:
     function:
       definition: sendErrorResponse;sendTimeoutResponse
