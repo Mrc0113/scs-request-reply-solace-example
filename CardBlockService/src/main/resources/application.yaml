@@ -1,6 +1,6 @@
 spring:
   application:
-    name: CardBlockService
+    name: CardBlock
   sleuth:
     sampler:
       probability: 1.0

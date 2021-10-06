@@ -1,6 +1,6 @@
 spring:
   application:
-    name: TransactionsHistoryService
+    name: TxnHistory
   sleuth:
     sampler:
       probability: 1.0

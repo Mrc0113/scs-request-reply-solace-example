@@ -1,6 +1,6 @@
 spring:
   application:
-    name: OrchestratorService
+    name: Orchestrator
   sleuth:
     sampler:
       probability: 1.0

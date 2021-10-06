@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ApiErrorHandlingService
+    name: ApiErrorHandling
   sleuth:
     sampler:
       probability: 1.0
